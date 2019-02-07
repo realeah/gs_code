@@ -1,0 +1,14 @@
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+ul {
+    list-style: none;
+}
+
+.nav-list{
+  display:flex;
+  list-style: none;
+}
